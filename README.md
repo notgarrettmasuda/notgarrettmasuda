@@ -1,4 +1,4 @@
-### Hello, I'm Garrett Masuda, just finished my second year at PCC and am planning on transferring to CPP
+### Hello, I'm Garrett Masuda, I am a 3rd year at Cal Poly Pomona
 
 - 🔭 Small Projects related to video games
 - 🌱 I’m currently learning Web development on the side
@@ -8,3 +8,4 @@
 
 Languages
 C++, JAVA, Python (Intermidiate)
+HTML, CSS (Beginner)
